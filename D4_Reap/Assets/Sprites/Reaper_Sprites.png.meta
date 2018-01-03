@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: f4d56f9003c895947ba9bdbee750d7c1
+timeCreated: 1508092119
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Reaper_Sprites_0
+    21300002: Reaper_Sprites_1
+    21300004: Reaper_Sprites_2
+    21300006: Reaper_Sprites_3
+    21300008: Reaper_Sprites_4
+    21300010: Reaper_Sprites_5
+    21300012: Reaper_Sprites_6
+    21300014: Reaper_Sprites_7
+    21300016: Reaper_Sprites_8
+    21300018: Reaper_Sprites_9
+    21300020: Reaper_Sprites_10
+    21300022: Reaper_Sprites_11
+    21300024: Reaper_Sprites_12
+    21300026: Reaper_Sprites_13
+    21300028: Reaper_Sprites_14
+    21300030: Reaper_Sprites_15
+    21300032: Reaper_Sprites_16
+    21300034: Reaper_Sprites_17
+    21300036: Reaper_Sprites_18
+    21300038: Reaper_Sprites_19
+    21300040: Reaper_Sprites_20
+    21300042: Reaper_Sprites_21
+    21300044: Reaper_Sprites_22
+    21300046: Reaper_Sprites_23
+    21300048: Reaper_Sprites_24
+    21300050: Reaper_Sprites_25
+    21300052: Reaper_Sprites_26
+    21300054: Reaper_Sprites_27
+    21300056: Reaper_Sprites_28
+    21300058: Reaper_Sprites_29
+    21300060: Reaper_Sprites_30
+    21300062: Reaper_Sprites_31
+    21300064: Reaper_Sprites_32
+    21300066: Reaper_Sprites_33
+    21300068: Reaper_Sprites_34
+    21300070: Reaper_Sprites_35
+    21300072: Reaper_Sprites_36
+    21300074: Reaper_Sprites_37
+    21300076: Reaper_Sprites_38
+    21300078: Reaper_Sprites_39
+    21300080: Reaper_Sprites_40
+    21300082: Reaper_Sprites_41
+    21300084: Reaper_Sprites_42
+    21300086: Reaper_Sprites_43
+    21300088: Reaper_Sprites_44
+    21300090: Reaper_Sprites_45
+    21300092: Reaper_Sprites_46
+    21300094: Reaper_Sprites_47
+    21300096: Reaper_Sprites_48
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reaper_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 14095
+        width: 482
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 14100
+        width: 464
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 14100
+        width: 477
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 14100
+        width: 464
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 14095
+        width: 479
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13312
+        width: 481
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 13315
+        width: 463
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 13315
+        width: 476
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 13315
+        width: 464
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 13312
+        width: 480
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 12514
+        width: 566
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 12841
+        width: 174
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11633
+        width: 565
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 11962
+        width: 174
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 10752
+        width: 339
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 11349
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 10752
+        width: 338
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 11340
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 10754
+        width: 419
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 9889
+        width: 336
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 9890
+        width: 421
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 10476
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 9889
+        width: 338
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 8987
+        width: 428
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 8198
+        width: 427
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 7256
+        width: 634
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 7256
+        width: 526
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 7256
+        width: 635
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6342
+        width: 634
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 6342
+        width: 526
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 6342
+        width: 634
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5083
+        width: 480
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 5083
+        width: 502
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 5463
+        width: 175
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 5083
+        width: 556
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 5083
+        width: 506
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 5463
+        width: 173
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 5083
+        width: 481
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4052
+        width: 481
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 4052
+        width: 508
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 4431
+        width: 175
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 4052
+        width: 557
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 4052
+        width: 503
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 4431
+        width: 174
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 4052
+        width: 482
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3227
+        width: 421
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2360
+        width: 419
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1567
+        width: 427
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reaper_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 848
+        width: 425
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
